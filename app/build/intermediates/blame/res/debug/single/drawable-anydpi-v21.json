@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_share.xml",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_send.xml",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\25d17816fa7603c5f0e645fba5b3d5c057f04243\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\25d17816fa7603c5f0e645fba5b3d5c057f04243\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    }
+]

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cabinet"
+            android:icon="@drawable/ic_account_box_black_36dp"
+            android:title="Личный кабинет" />
+        <item
+            android:id="@+id/nav_list"
+            android:icon="@drawable/ic_credit_card_black_36dp"
+            android:title="Займы" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_language_black_36dp"
+            android:title="Сайт" />
+    </group>
+
+    <item android:title="Связь">
+        <menu>
+            <item
+                android:id="@+id/nav_map"
+                android:icon="@drawable/ic_account_balance_black_36dp"
+                android:title="Офисы" />
+            <item
+                android:id="@+id/nav_call"
+                android:icon="@drawable/ic_phone_black_36dp"
+                android:title="Позвонить" />
+        </menu>
+    </item>
+
+    <item android:title="Кабинет">
+        <menu>
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_exit_to_app_black_36dp"
+            android:title="Выйти" />
+        </menu>
+
+    </item>
+
+</menu>

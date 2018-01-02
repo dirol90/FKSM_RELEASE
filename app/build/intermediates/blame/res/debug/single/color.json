@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\ff6dca0870cc273484a0ea89e256495d56295305\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\25d17816fa7603c5f0e645fba5b3d5c057f04243\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\25d17816fa7603c5f0e645fba5b3d5c057f04243\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\dsb_track_color_list.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\7024b589624c31b65c306835a9a0749179a9b0d6\\output\\res\\color\\dsb_track_color_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\ff6dca0870cc273484a0ea89e256495d56295305\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\dsb_progress_color_list.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\7024b589624c31b65c306835a9a0749179a9b0d6\\output\\res\\color\\dsb_progress_color_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\dsb_ripple_color_list.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\7024b589624c31b65c306835a9a0749179a9b0d6\\output\\res\\color\\dsb_ripple_color_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\ff6dca0870cc273484a0ea89e256495d56295305\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]

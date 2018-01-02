@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

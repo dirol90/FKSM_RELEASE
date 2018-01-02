@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1081700525645",
+    "firebase_url": "https://fksm-71419.firebaseio.com",
+    "project_id": "fksm-71419",
+    "storage_bucket": "fksm-71419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081700525645:android:50fc240f7701c10f",
+        "android_client_info": {
+          "package_name": "com.tsimbalyukstudio.fksm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081700525645-d949vei89iiahh9tu1h3ks33hg1v6k81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2raShsI56mgrAGDO0ktPXg7weTv1MzNM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081700525645-d949vei89iiahh9tu1h3ks33hg1v6k81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

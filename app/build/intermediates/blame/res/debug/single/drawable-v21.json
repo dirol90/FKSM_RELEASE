@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_add_black_36dp.png",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\src\\main\\res\\drawable-v21\\ic_add_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_remove_black_36dp.png",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\src\\main\\res\\drawable-v21\\ic_remove_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_feedback_black_36dp.png",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\src\\main\\res\\drawable-v21\\ic_feedback_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_phone_black_36dp.png",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\src\\main\\res\\drawable-v21\\ic_phone_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\25d17816fa7603c5f0e645fba5b3d5c057f04243\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_account_balance_black_36dp.png",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\src\\main\\res\\drawable-v21\\ic_account_balance_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\25d17816fa7603c5f0e645fba5b3d5c057f04243\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_build_black_36dp.png",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\src\\main\\res\\drawable-v21\\ic_build_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_exit_to_app_black_36dp.png",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\src\\main\\res\\drawable-v21\\ic_exit_to_app_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\25d17816fa7603c5f0e645fba5b3d5c057f04243\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\becdcf2f8e3d73b3aaa87bb23a6baad96665419f\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Konstantin Tsymbalyu\\.android\\build-cache\\25d17816fa7603c5f0e645fba5b3d5c057f04243\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_credit_card_black_36dp.png",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\src\\main\\res\\drawable-v21\\ic_credit_card_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_account_box_black_36dp.png",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\src\\main\\res\\drawable-v21\\ic_account_box_black_36dp.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "D:\\AndroidProjects\\FKSM 2705 RELEASE\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    }
+]

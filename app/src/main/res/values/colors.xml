@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#1B904D</color>
+    <color name="colorPrimary">#1B904D</color>
+    <color name="colorPrimaryDark">#1B904D</color>
+    <color name="third">#CECECE</color>
+    <color name="five">#F9F9F9</color>
+    <color name="six">#818181</color>
+    <color name="seven">#2A2A2A</color>
+    <color name="eight">#080808</color>
+    <color name="invisible">#00ffffff</color>
+    <color name="splash">#3b5998</color>
+    <color name="btns">#400c11</color>
+    <color name="main">#f7f7f7</color>
+    <color name="grey">#8c8c8c</color>>
+</resources>
